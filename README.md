@@ -24,21 +24,4 @@ If you want to use the demo –
 Merchant ID – gtKFFx
 Salt – eCwWELxi
 Mode – demo
-Total – The value of checkout order total must reach this value before this payment method becomes active. You may leave it empty as well.
-Order Status – Its shows the Status of the order. Ideally, you may select processing.
-Geo Zone – All zones
-Status – Enabled
-Sort Order – Sort order determines what order the payment module are displayed in.
-# After this click on the Save button.
-You may use the following credit card credentials for successful transactions in
-Test mode –
-Credit Card Number – 5123456789012346
-Name on the Card – Any name
-Card Expiry – May, 2017
-CVV – 123
-(b) When you wish to go live –
-Merchant ID – Enter the Merchant Key supplied to you.
-Salt – Enter the Salt supplied to you.
-Mode – live
-Total – The value of checkout order total must reach this value before this payment method becomes active.
-You may leave it empty as well.
+
